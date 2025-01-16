@@ -15,7 +15,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   height: 160px;
-  width: 50%;
+  width: 30%;
   border: 1px solid rgb(76, 122, 137);
   margin-bottom: 20px;
   border-radius: 10px;
@@ -36,7 +36,9 @@ button {
   font-weight: bold;
   letter-spacing: 1px;
 }
-
+#btn01{background-color: rgb(139, 24, 118); }
+#btn02{background-color: rgb(35, 65, 123);}
+#btn03{  background-color: darkslategray;}
 .name01 {
   font-size: 18px;
   color: rgb(139, 24, 118);

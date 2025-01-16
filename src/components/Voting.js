@@ -27,9 +27,9 @@ let voteFor03 = () =>{
     <h1>Voting App</h1>
     <div className="vote-container">
         
-        <div className="items"><p className='name01'> Candidate 01</p><button id='btn01' onClick={voteFor01}>Vote </button></div>
-        <div className="items"><p className='name02'> Candidate 02</p><button id='btn02' onClick={voteFor02}>Vote</button></div>
-        <div className="items"><p className='name03'> Candidate 03</p><button id='btn03' onClick={voteFor03}>Vote</button></div>
+        <div className="items"><button id='btn01' onClick={voteFor01}>Vote </button></div>
+        <div className="items"><button id='btn02' onClick={voteFor02}>Vote</button></div>
+        <div className="items"><button id='btn03' onClick={voteFor03}>Vote</button></div>
     </div>
     <div className="counter">
         <p className='name01'>Total Votes for candidate 01 : {voteOne}</p>
