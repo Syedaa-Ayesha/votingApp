@@ -14,8 +14,8 @@
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  height: 160px;
-  width: 30%;
+  height: 120px;
+  width: 44%;
   border: 1px solid rgb(76, 122, 137);
   margin-bottom: 20px;
   border-radius: 10px;
@@ -23,7 +23,6 @@
 h1{
   font-size: 42px;
   color: chocolate;
-
 }
 
 button {
@@ -31,7 +30,7 @@ button {
   color: white;
   border: none;
   padding: 10px 25px;
-  width: 120px ;
+  width: 200px ;
   border-radius: 4px;
   cursor: pointer;
   font-weight: bold;
